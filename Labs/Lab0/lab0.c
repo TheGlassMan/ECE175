@@ -6,7 +6,7 @@ int x; // declaration of an integer
 float y; // declaration of a float
 char c; // declaration of a char
 x = 125; // initialization
-y = 3.14158; // initialization
+y = 3.1357; // initialization
 c = 'a'; // initialization
 printf("Printing an integer number:%d\n", x); // integer
 printf("Printing a float number:%f\n",y); // real
