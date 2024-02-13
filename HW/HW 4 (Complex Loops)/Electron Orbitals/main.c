@@ -11,9 +11,16 @@ int main()
     printf("Enter in atomic number:");
     scanf("%d", &inputElement);
     electrons = inputElement;
-    printf("The orbitals for element #%d are: \n", inputElement);
+    if (electrons < 0 || electrons > 118)
+    {
+        printf("Number is outside the range of atomic numbers.");
+        return 0;
+    }
+    else{
 
-    if (inputElement > 0 && inputElement <= 118){
+        printf("The orbitals for element #%d are: \n", inputElement);
+
+
         for ( i = 1; i <= 4; i++)
         {
             for ( j = 1; j <= i && electrons > 0; j++)
@@ -90,9 +97,6 @@ int main()
 
         }
 
-
-
-
         for (k = 1; k <= 3; k++)
         {
             for (l = 1; l <= 4 && electrons != 0; l++)
@@ -101,13 +105,7 @@ int main()
             }
             printf("\n");
         }
-
-
     }
-    else{
-        printf("Number is outside the range of atomic numbers.");
 
-
-    }
     return 0;
 }
