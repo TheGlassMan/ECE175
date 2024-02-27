@@ -2,7 +2,7 @@
 void smallestInt(FILE *inp, int *pmin1, int *pmin2);
 
 int main(void){
-    int min1, min2;
+    int min1 = 0, min2 = 0;
 
     FILE *inp = NULL;
     inp = fopen("data.txt", "r");
@@ -27,6 +27,9 @@ void smallestInt(FILE *inp, int *pmin1, int *pmin2){
         if (num < *pmin1){
             *pmin2 = *pmin1;
             *pmin1 = num;
+        }
+        else if(num < *pmin2){
+            *pmin2 = num;
         }
 
 
