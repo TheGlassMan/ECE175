@@ -1,10 +1,8 @@
 # HW1 Assignments/Explanations
 
-------
 
 ## Problem 1: Phone Number Breakdown
 
-------
 
 Consider a long long integer representing a 10-digit phone number given by the user via the keyboard. Break down the input to a phone-friendly format represented by the area code (in parenthesis), followed by the prefix, and line number using the format (800) 555-1212.
 
