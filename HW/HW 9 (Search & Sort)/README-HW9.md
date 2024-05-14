@@ -1,10 +1,8 @@
 # HW9 Assignments/Explanations
 
-------
 
 ## Problem 1: Telecommunication packets
 
-------
 In our internet infrastructure, each server is responsible for recording incoming telecommunication packets in an array as they arrive, ensuring that they are ordered according to their respective time fields within the array. Now, let's consider a scenario where an application needs to locate and sort these telecommunications packets by their timestamps across three servers.
 
 To achieve this, write a program that takes the input from three Timestamp files (each with 9 ordered timestamps) and outputs the merged and sorted packets based on their time order. Your program should use a function called printTimestamps to display the timestamps.

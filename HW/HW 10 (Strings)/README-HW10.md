@@ -1,10 +1,8 @@
 # HW10 Assignments/Explanations
 
-------
 
 ## Problem 1: Reversed words in a sentence
 
-------
 
 Prompt the user to enter a sentence that does not exceed 100 characters. Print the sentence with all the words spelled backward. You can assume that the words of the sentence are separated by a single space. Your program should use a function called reverse that receives as input a string and reverses it. You should call reverse with only a single word, not with an entire line of words.
 
@@ -16,7 +14,6 @@ yaM eht ecrof eb htiw uoy
 
 ## Problem 2: String search
 
-------
 
 Develop a C program that searches a file for a given string. Your program should
 

@@ -1,10 +1,8 @@
 # HW6 Assignments/Explanations
 
-------
 
 ## Problem 1: Distance Converter
 
-------
 
 Develop a C program that receives as input a distance value, d, in inches and converts it to yards, feet, and inches (1 yard = 3 feet, 1 foot = 12 inches). Your program should:
 
@@ -29,7 +27,6 @@ The distConverter function prototype should be:<br/>
 
 ## Problem 2: Two smallest values
 
-------
 
 A file called data.txt contains a set of integer numbers. Find the two smallest numbers on that file. Your code should use the following function that returns the two smallest integers.
 

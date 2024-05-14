@@ -1,10 +1,8 @@
 # HW2 Assignments/Explanations
 
-------
 
 ## Problem 1: Date Calculator
 
-------
 
 - Prompt the user to enter the month and day of the year (1 for January, 2 for February, etc).
 - Prompt the user to enter a period of time in days. Print the date after the period entered by the user has passed.
@@ -21,7 +19,6 @@ Test cases: (Month Day Period New Date)<br />
 
 ## Problem 2: Ideal Temperatures
 
-------
 
 - Prompt the user to enter the time of the day. The user should enter d for daytime and n for nighttime.
 - Configure a boolean variable to store if it is daytime (true) or nighttime (false).

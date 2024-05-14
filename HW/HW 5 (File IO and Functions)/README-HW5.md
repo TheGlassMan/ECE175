@@ -1,10 +1,8 @@
 # HW5 Assignments/Explanations
 
-------
 
 ## Problem 1: Leap year - functions
 
-------
 
 A common year in the modern Gregorian Calendar consists of 365 days. In reality, Earth takes longer to rotate around the sun. To account for the difference in time, every 4 years, a leap year takes place. A leap year is when a year has 366 days: An extra day, February 29th. The requirements for a given year to be a leap year are:
 
@@ -32,7 +30,6 @@ the output is:
 
 ## Problem 2: Convert to binary - functions
 
-------
 
 Write a program that takes in a positive integer as input and outputs its binary representation. For an integer x, the algorithm is:
 

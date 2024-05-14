@@ -16,7 +16,6 @@ the output is:
 
 ## Problem 2: House real estate summary
 
-------
 
 Sites like Zillow get input about house prices from a database and provide nice summaries for readers. Write a program with two inputs, current price and last month's price (both integers). Then, output a summary listing the price, the change since last month, and the estimated monthly mortgage computed as (currentPrice * 0.051) / 12 (Note: Output directly as a floating-point value. Do not store in a variable.).
 
@@ -31,7 +30,6 @@ The estimated monthly mortgage is $850.000000.`
 
 ## Problem 3: Musical note frequencies
 
-------
 
 On a piano, a key has a frequency, say f0. Each higher key (black or white) has a frequency of f0 * rn, where n is the distance (number of keys) from that key, and r is 2(1/12). Given an initial key frequency (an integer), output that frequency and the next 4 higher key frequencies.
 

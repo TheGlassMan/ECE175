@@ -1,10 +1,8 @@
 # HW8 Assignments/Explanations
 
-------
 
 ## Problem 1: Sudoku
 
-------
 
 Sudoku is a number-placement puzzle played on a 9-by-9 grid. The objective is to fill the grid with digits so that each column, each row, and each of the nine 3-by-3 subgrids that compose the grid contain all of the digits from 1 to 9. For complete Sudoku rules, check [Wikipedia]{http://en.wikipedia.org/wiki/Sudoku}.
 

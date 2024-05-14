@@ -1,12 +1,10 @@
 # HW3 Assignments/Explanations
 
------
 
 
 
 ## Problem 1: Factorial Calculation
 
-------
 
 Write a program that calculates the factorial of a positive integer n.
 
@@ -20,7 +18,6 @@ Input number: **4**
 
 ## Problem 2: Perfect Numbers
 
-------
 
 A positive integer is said to be a perfect number if it equals the sum of its positive divisors (excluding the number itself). As an example, 6 is a perfect number because its divisors, 1, 2, and 3 sums up to 6.
 
@@ -44,7 +41,6 @@ Goodbye! <br />
 
 ## Problem 3: Number-to-text Converter
 
-------
 
 Implement an automated number-to-text conversion system for a phone company.
 
